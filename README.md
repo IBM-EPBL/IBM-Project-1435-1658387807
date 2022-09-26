@@ -1,3 +1,0 @@
-
-Smart Fashion Recommender Application
-
