@@ -1,0 +1,17 @@
+.top-banner {
+    background-color: #4d8bdd;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAHlBMVEUAAABkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGSH0mEbAAAACnRSTlMAzDPDPPPYnGMw2CgMzQAAAChJREFUKM9jgAPOAgZMwGIwKkhXQSUY0BCCMxkEYUAsEM4cjI4fwYIAf2QMNbUsZjcAAAAASUVORK5CYII=');
+    background-size: 8px;
+}
+.profile-img {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 5px;
+}
+.profile-img > img {
+    height: 8rem;
+    width: 8rem;
+    margin-left: -4px;
+    margin-top: -4px;
+    border-radius: 50px;
+}
