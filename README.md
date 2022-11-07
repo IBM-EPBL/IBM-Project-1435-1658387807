@@ -12,12 +12,9 @@ Smart Fashion Recommender Application
 <hr>
 
 # 📒 PROJECT DESCRIPTION
+A recommendation system is a system that is programmed to predict future preferable items from a large set of collections. A recommendation system works either by using user preferences or by using the items most preferred by all users. The main challenge in building a fashion recommendation system is that it is a very dynamic industry.
 
-An increase in air traffic growth has also resulted in massive levels of aircraft delays on the ground and in the air. 
-These delays are responsible for large economic and environmental losses. 
-The main objective of the model is to predict flight delays accurately in order to optimize flight operations and minimize delays.
-Using a machine learning model, we can predict flight arrival delays. 
-The input to our algorithm is rows of feature vector like departure date, departure delay, distance between the two airports, scheduled arrival time etc
+
 
  <hr>
  
