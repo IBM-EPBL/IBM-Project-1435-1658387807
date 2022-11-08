@@ -29,15 +29,6 @@ A recommendation system is a system that is programmed to predict future prefera
 
 <hr>
 
-## 🈸 SKILLS REQUIRED
-|    |   |   |
-| :---:         |     :---:      |          :---: | 
-| IBM CLOUD   | PYTHON     | PYTHON WEB FRAME WORKS   | 
-| PYTHON - FLASK    | PYTHON FOR DATA VISUALIZATION    | DOCKER    |
-| DATA PREPROCESSING TECHNIQUES| IBM WATSON STUDIO | MACHINE LEARNING |
-| | | |
-
-
 ## 🧑🏻‍🦰 TEAM MEMBERS
 - ABITHA R
 - SOWMIYA 
